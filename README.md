@@ -1,4 +1,2 @@
 # maps_velo_guide
-IndigoVerge task
-
-Lorem Ipsum
+Създаване на карта за сайт с помоща на Google Maps, с възможност за филтриране на обекти свързани с велосипеди в София.
